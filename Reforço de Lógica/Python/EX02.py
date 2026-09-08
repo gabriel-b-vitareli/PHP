@@ -1,3 +1,5 @@
+# ------------------- "Qual o maior número?" ------------------- #
+
 num1 = int(input("Digite o primeiro número: ")) # Pedindo o primeiro número
 num2 = int(input("Digite o segundo número: ")) # Pedindo o segundo número
 

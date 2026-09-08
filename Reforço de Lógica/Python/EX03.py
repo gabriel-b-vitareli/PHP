@@ -1,3 +1,5 @@
+# ------------------- Verifica se números são divisíveis ------------------- #
+
 dividendo = int(input("Digite o dividendo: ")) # Pedindo o dividendo da operação
 divisor = int(input("Digite o disivor: ")) # Pedindo o divisor da operação
 

@@ -1,3 +1,5 @@
+# ------------------- Verificadora de Idade ------------------- #
+
 # Pedindo a idade do usuário:
 idade = int(input("Qual sua idade? "))
 
