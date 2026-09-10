@@ -16,6 +16,8 @@
     <button><a href="/desafio-07.php">Desafio 07</a></button><br><br>
     <button><a href="/desafio-08.php">Desafio 08</a></button><br><br>
     <button><a href="/desafio-09.php">Desafio 09</a></button><br><br>
+    <button><a href="/desafio-10.php">Desafio 10</a></button><br><br>
+    <button><a href="/desafio-11.php">Desafio 11</a></button><br><br>
 
     <footer>
         <hr>
