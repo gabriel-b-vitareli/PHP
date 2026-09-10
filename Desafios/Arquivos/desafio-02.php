@@ -3,9 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../Includes/global.css">
     <title>Desafio 02 | Sorteio de Número Aleatório</title>
 </head>
 <body>
+    <?php include '../Includes/header.php'?>
     <h1>Sorteio de Número Aleatório</h1>
     <hr>
     <!-- Gerando um número aleatório com PHP usando a função rand(): -->

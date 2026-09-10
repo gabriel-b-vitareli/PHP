@@ -1,0 +1,54 @@
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f7f6;
+            color: #333;
+            max-width: 600px;
+            margin: 40px auto;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            color: #4f5d95; /* Cor inspirada no PHP */
+            margin-bottom: 10px;
+        }
+
+        hr {
+            border: 0;
+            height: 2px;
+            background: #ddd;
+            margin: 20px 0;
+        }
+
+        /* Estilo dos links transformados em botões */
+        button {
+            background-color: #ffffff;
+            color: #4f5d95;
+            text-decoration: none;
+            padding: 12px 20px;
+            border-radius: 8px;
+            font-weight: 600;
+            border: 2px solid #4f5d95;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+
+        button[type="submit"] {
+            text-decoration: none;
+            color: #4f5d95;
+            border-radius: 8px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+
+        a {
+            text-decoration: none;
+            color: #4f5d95;
+        }
+
+        /* Rodapé */
+        footer {
+            margin-top: 40px;
+            color: #666;
+            font-size: 0.9rem;
+        }

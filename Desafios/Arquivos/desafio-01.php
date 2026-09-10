@@ -3,9 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../Includes/global.css">
     <title>Desafio 01 | Número Antecessor e Sucessor</title>
 </head>
 <body>
+    <?php include '../Includes/header.php'?>
+    <h1>Antecessor e Sucessor</h1>
+    <hr>
     <!-- Formulário para receber o número escolhido pelo usuário: -->
     <form action="" method="POST">
     <label for="numero">Digite um número:<br></label>

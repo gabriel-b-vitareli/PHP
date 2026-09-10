@@ -3,9 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../Includes/global.css">
     <title>Desafio 10 | Calculadora de Idade</title>
 </head>
 <body>
+    <?php include '../Includes/header.php'?>
+    <h1>Calculadora de Idade</h1>
+    <hr>
     <form action="" method="POST">
     <label for="ano-nasc">Digite seu ano de nascimento:<br></label>
     <input type="number" name="ano-nasc" id="ano-nasc"> <br><br>

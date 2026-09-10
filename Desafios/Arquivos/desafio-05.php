@@ -3,11 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../Includes/global.css">
     <title>Desafio 05 | Analisar Número Real</title>
 </head>
 <body>
+    <?php include '../Includes/header.php'?>
     <h1>Analisar Número Real</h1>
-
+    <hr>
     <form action="" method="POST">
         <label for="numero">Insira um número real: </label>
         <input type="number" name="numero" id="numero" step="0.00001">

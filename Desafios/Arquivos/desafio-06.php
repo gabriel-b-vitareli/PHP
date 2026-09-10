@@ -3,9 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../Includes/global.css">
     <title>Desafio 06 | Anatomia de Divisão</title>
 </head>
 <body>
+    <?php include '../Includes/header.php'?>
     <h1>Anatomia de Divisão</h1>
     <hr>
     <form action="" method="POST">

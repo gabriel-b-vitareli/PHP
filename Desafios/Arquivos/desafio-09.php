@@ -3,9 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../Includes/global.css">
     <title>Desafio 09 | Médias Aritméticas</title>
 </head>
 <body>
+    <?php include '../Includes/header.php'?>
     <h1>Médias Aritméticas</h1>
     <hr>
     <form action="" method="POST">
